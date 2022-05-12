@@ -30,7 +30,6 @@ I use the next languages and tools:
 <img src="http://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 <img src="http://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
 <img src="http://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white">
-<img src="http://img.shields.io/badge/-Trello-0052CC?style=flat&logo=Trello&logoColor=white">
 [![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=Trello&logoColor=white&react&link=https://github.com/roxypoceros)](https://github.com/roxypoceros) 
 
 
