@@ -12,22 +12,24 @@ I'm a front-end developer and designer from Mexico City.
 - 😄 Pronouns: She/Her
 - ✨ I use agile methodologies.
 - 👨‍👩‍👧‍👦I develop user-focused design. 
-- ⚡ Fun fact: My love ❤️ for technology began when I used a calculator for the first time, so I developed one with React. [Check it here!](https://bit.ly/3OHzGYE "Check my calculator app here!")
+- ⚡ Fun fact: My love ❤️ for technology began when I used a calculator for the first time, so I developed one with React.
 
 <h4 align="left">I use the next languages and tools:</h4>
 <p align="CENTER"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="#"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  
 
 <h4 align="left">You can visit my projects here 👇</h4>
 
-- [Rosseta is an app to create, read, edit and delete notes. 📝 ](https://rosetta-e89bb.web.app/ "Rosseta is an app to create, read, edit and delete notes.")
+- [This calculator was developed with React. ➕ ](https://calculator-app-by-roxypoceros.netlify.app/ "This calculator was developed with React.")
+- [Rosseta is an app to create, read, edit and delete notes. 📝 ](https://rosetta-e89bb.web.app/ "Rosseta is an app to create, read, edit and delete notes. ")
 - [action! The social network for actors, directors, producers and more... 🙋 ](https://action-redsocial.web.app/ "action! The social network for actors, directors, producers and more...")
 - [Visit the Ghibli's Universe. 🎦 ](https://roxypoceros.github.io/CDMX012-data-lovers/src/index.html "Visit the Ghibli's Universe")
 - [Card Validator. Check if your card is valid or not. 😎 ](https://roxypoceros.github.io/CDMX012-card-validation/ "Card Validator. Check if your card is valid or not.")
