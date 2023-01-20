@@ -5,8 +5,8 @@ I'm a front-end developer and designer from Mexico City.
 
 *"I focus on each of the steps I take to reach the goal."*
 
-- 🌱 I&apos;m currently working with Lit.
-- 👯 I&apos;m looking to know more about JS.
+- 🌱 I&apos;m currently working with Lit and web components.
+- 👯 I&apos;m looking to know more about JS and JAVA.
 - 💬 Ask me about coding 👩‍💻, design, films 📽️, culture and gardening 🌹. 
 - 📫 How to reach me: [Visit my LinkedIn](http://www.linkedin.com/in/roxypoceros "Visit my LinkedIn")
 - 😄 Pronouns: She/Her
