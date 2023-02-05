@@ -25,6 +25,7 @@ I'm a front-end developer and designer from Mexico City.
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="#"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 <a href="#"><img src="https://raw.githubusercontent.com/lit/lit/main/packages/lit/logo.svg" alt="lit" width="80" height="40"/>
+<a href="#"><img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/>
   
   
   
